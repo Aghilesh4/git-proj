@@ -1,2 +1,3 @@
-This is my first file content. 
+This file will be updated. 
 The proj has many features. 
+That we will be developing.
