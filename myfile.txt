@@ -1,2 +1,2 @@
-This is my first file content 
-The proj has many features 
+This is my first file content. 
+The proj has many features. 
