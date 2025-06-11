@@ -1,1 +1,1 @@
-"The profile page"
+This will be the profile page.
